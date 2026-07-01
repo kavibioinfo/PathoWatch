@@ -1,0 +1,11 @@
+streamlit==1.40.0
+plotly==5.24.0
+pandas==2.2.3
+requests==2.32.3
+biopython==1.84
+numpy==2.1.3
+pycountry==24.6.1
+protobuf==4.25.3
+Pillow==10.4.0          # For image handling
+altair==5.4.0           # Streamlit charts dependency
+pydeck==0.9.1           # For map visualizations

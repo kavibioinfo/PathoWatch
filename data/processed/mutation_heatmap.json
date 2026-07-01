@@ -1,0 +1,868 @@
+{
+  "last_updated": "2026-07-01T13:14:07.901524",
+  "top_mutations": [
+    "N440K",
+    "K417N",
+    "N501Y",
+    "T478K",
+    "D614G",
+    "F486P",
+    "L452R",
+    "P681R",
+    "R346T",
+    "E484K"
+  ],
+  "heatmap_data": [
+    {
+      "mutation": "N440K",
+      "month": "2024-01",
+      "prevalence": 0.8057
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-02",
+      "prevalence": 0.8242
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-03",
+      "prevalence": 0.8208
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-04",
+      "prevalence": 0.7737
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-05",
+      "prevalence": 0.7945
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-06",
+      "prevalence": 0.807
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-07",
+      "prevalence": 0.8165
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-08",
+      "prevalence": 0.7738
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-09",
+      "prevalence": 0.8419
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-10",
+      "prevalence": 0.7809
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-11",
+      "prevalence": 0.7937
+    },
+    {
+      "mutation": "N440K",
+      "month": "2024-12",
+      "prevalence": 0.847
+    },
+    {
+      "mutation": "N440K",
+      "month": "2025-01",
+      "prevalence": 0.8236
+    },
+    {
+      "mutation": "N440K",
+      "month": "2025-02",
+      "prevalence": 0.8525
+    },
+    {
+      "mutation": "N440K",
+      "month": "2025-03",
+      "prevalence": 0.8078
+    },
+    {
+      "mutation": "N440K",
+      "month": "2025-04",
+      "prevalence": 0.8398
+    },
+    {
+      "mutation": "N440K",
+      "month": "2025-05",
+      "prevalence": 0.8507
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-01",
+      "prevalence": 0.8023
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-02",
+      "prevalence": 0.8033
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-03",
+      "prevalence": 0.7816
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-04",
+      "prevalence": 0.7222
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-05",
+      "prevalence": 0.7368
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-06",
+      "prevalence": 0.7687
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-07",
+      "prevalence": 0.79
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-08",
+      "prevalence": 0.8088
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-09",
+      "prevalence": 0.7336
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-10",
+      "prevalence": 0.7299
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-11",
+      "prevalence": 0.7276
+    },
+    {
+      "mutation": "K417N",
+      "month": "2024-12",
+      "prevalence": 0.7794
+    },
+    {
+      "mutation": "K417N",
+      "month": "2025-01",
+      "prevalence": 0.7894
+    },
+    {
+      "mutation": "K417N",
+      "month": "2025-02",
+      "prevalence": 0.7704
+    },
+    {
+      "mutation": "K417N",
+      "month": "2025-03",
+      "prevalence": 0.7668
+    },
+    {
+      "mutation": "K417N",
+      "month": "2025-04",
+      "prevalence": 0.8052
+    },
+    {
+      "mutation": "K417N",
+      "month": "2025-05",
+      "prevalence": 0.8076
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-01",
+      "prevalence": 0.7288
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-02",
+      "prevalence": 0.7079
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-03",
+      "prevalence": 0.6948
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-04",
+      "prevalence": 0.7
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-05",
+      "prevalence": 0.7522
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-06",
+      "prevalence": 0.7204
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-07",
+      "prevalence": 0.6752
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-08",
+      "prevalence": 0.6785
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-09",
+      "prevalence": 0.7075
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-10",
+      "prevalence": 0.6871
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-11",
+      "prevalence": 0.6859
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2024-12",
+      "prevalence": 0.7598
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2025-01",
+      "prevalence": 0.6912
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2025-02",
+      "prevalence": 0.7155
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2025-03",
+      "prevalence": 0.7334
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2025-04",
+      "prevalence": 0.7528
+    },
+    {
+      "mutation": "N501Y",
+      "month": "2025-05",
+      "prevalence": 0.7282
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-01",
+      "prevalence": 0.7129
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-02",
+      "prevalence": 0.7235
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-03",
+      "prevalence": 0.7037
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-04",
+      "prevalence": 0.6654
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-05",
+      "prevalence": 0.6808
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-06",
+      "prevalence": 0.6767
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-07",
+      "prevalence": 0.6291
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-08",
+      "prevalence": 0.644
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-09",
+      "prevalence": 0.7221
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-10",
+      "prevalence": 0.6682
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-11",
+      "prevalence": 0.7203
+    },
+    {
+      "mutation": "T478K",
+      "month": "2024-12",
+      "prevalence": 0.6582
+    },
+    {
+      "mutation": "T478K",
+      "month": "2025-01",
+      "prevalence": 0.6625
+    },
+    {
+      "mutation": "T478K",
+      "month": "2025-02",
+      "prevalence": 0.6771
+    },
+    {
+      "mutation": "T478K",
+      "month": "2025-03",
+      "prevalence": 0.6594
+    },
+    {
+      "mutation": "T478K",
+      "month": "2025-04",
+      "prevalence": 0.6473
+    },
+    {
+      "mutation": "T478K",
+      "month": "2025-05",
+      "prevalence": 0.6599
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-01",
+      "prevalence": 0.6462
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-02",
+      "prevalence": 0.5831
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-03",
+      "prevalence": 0.6332
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-04",
+      "prevalence": 0.5855
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-05",
+      "prevalence": 0.6176
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-06",
+      "prevalence": 0.5671
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-07",
+      "prevalence": 0.6453
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-08",
+      "prevalence": 0.5962
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-09",
+      "prevalence": 0.63
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-10",
+      "prevalence": 0.658
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-11",
+      "prevalence": 0.6266
+    },
+    {
+      "mutation": "D614G",
+      "month": "2024-12",
+      "prevalence": 0.5993
+    },
+    {
+      "mutation": "D614G",
+      "month": "2025-01",
+      "prevalence": 0.5764
+    },
+    {
+      "mutation": "D614G",
+      "month": "2025-02",
+      "prevalence": 0.6591
+    },
+    {
+      "mutation": "D614G",
+      "month": "2025-03",
+      "prevalence": 0.6152
+    },
+    {
+      "mutation": "D614G",
+      "month": "2025-04",
+      "prevalence": 0.5931
+    },
+    {
+      "mutation": "D614G",
+      "month": "2025-05",
+      "prevalence": 0.583
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-01",
+      "prevalence": 0.513
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-02",
+      "prevalence": 0.5681
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-03",
+      "prevalence": 0.4969
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-04",
+      "prevalence": 0.5193
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-05",
+      "prevalence": 0.4958
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-06",
+      "prevalence": 0.4893
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-07",
+      "prevalence": 0.5451
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-08",
+      "prevalence": 0.5693
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-09",
+      "prevalence": 0.5184
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-10",
+      "prevalence": 0.5085
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-11",
+      "prevalence": 0.5141
+    },
+    {
+      "mutation": "F486P",
+      "month": "2024-12",
+      "prevalence": 0.5745
+    },
+    {
+      "mutation": "F486P",
+      "month": "2025-01",
+      "prevalence": 0.5739
+    },
+    {
+      "mutation": "F486P",
+      "month": "2025-02",
+      "prevalence": 0.4861
+    },
+    {
+      "mutation": "F486P",
+      "month": "2025-03",
+      "prevalence": 0.4911
+    },
+    {
+      "mutation": "F486P",
+      "month": "2025-04",
+      "prevalence": 0.506
+    },
+    {
+      "mutation": "F486P",
+      "month": "2025-05",
+      "prevalence": 0.5352
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-01",
+      "prevalence": 0.5219
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-02",
+      "prevalence": 0.4727
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-03",
+      "prevalence": 0.5148
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-04",
+      "prevalence": 0.5057
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-05",
+      "prevalence": 0.5491
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-06",
+      "prevalence": 0.5352
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-07",
+      "prevalence": 0.5408
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-08",
+      "prevalence": 0.534
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-09",
+      "prevalence": 0.4714
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-10",
+      "prevalence": 0.4607
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-11",
+      "prevalence": 0.5135
+    },
+    {
+      "mutation": "L452R",
+      "month": "2024-12",
+      "prevalence": 0.4995
+    },
+    {
+      "mutation": "L452R",
+      "month": "2025-01",
+      "prevalence": 0.5041
+    },
+    {
+      "mutation": "L452R",
+      "month": "2025-02",
+      "prevalence": 0.4551
+    },
+    {
+      "mutation": "L452R",
+      "month": "2025-03",
+      "prevalence": 0.4779
+    },
+    {
+      "mutation": "L452R",
+      "month": "2025-04",
+      "prevalence": 0.4952
+    },
+    {
+      "mutation": "L452R",
+      "month": "2025-05",
+      "prevalence": 0.4725
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-01",
+      "prevalence": 0.5027
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-02",
+      "prevalence": 0.4856
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-03",
+      "prevalence": 0.4755
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-04",
+      "prevalence": 0.4739
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-05",
+      "prevalence": 0.4676
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-06",
+      "prevalence": 0.4511
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-07",
+      "prevalence": 0.4488
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-08",
+      "prevalence": 0.5282
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-09",
+      "prevalence": 0.4787
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-10",
+      "prevalence": 0.4657
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-11",
+      "prevalence": 0.5239
+    },
+    {
+      "mutation": "P681R",
+      "month": "2024-12",
+      "prevalence": 0.4566
+    },
+    {
+      "mutation": "P681R",
+      "month": "2025-01",
+      "prevalence": 0.4854
+    },
+    {
+      "mutation": "P681R",
+      "month": "2025-02",
+      "prevalence": 0.4755
+    },
+    {
+      "mutation": "P681R",
+      "month": "2025-03",
+      "prevalence": 0.4609
+    },
+    {
+      "mutation": "P681R",
+      "month": "2025-04",
+      "prevalence": 0.5058
+    },
+    {
+      "mutation": "P681R",
+      "month": "2025-05",
+      "prevalence": 0.5325
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-01",
+      "prevalence": 0.4534
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-02",
+      "prevalence": 0.4605
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-03",
+      "prevalence": 0.4608
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-04",
+      "prevalence": 0.4797
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-05",
+      "prevalence": 0.4457
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-06",
+      "prevalence": 0.4598
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-07",
+      "prevalence": 0.4719
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-08",
+      "prevalence": 0.4318
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-09",
+      "prevalence": 0.4455
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-10",
+      "prevalence": 0.4545
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-11",
+      "prevalence": 0.5153
+    },
+    {
+      "mutation": "R346T",
+      "month": "2024-12",
+      "prevalence": 0.5085
+    },
+    {
+      "mutation": "R346T",
+      "month": "2025-01",
+      "prevalence": 0.4621
+    },
+    {
+      "mutation": "R346T",
+      "month": "2025-02",
+      "prevalence": 0.5059
+    },
+    {
+      "mutation": "R346T",
+      "month": "2025-03",
+      "prevalence": 0.497
+    },
+    {
+      "mutation": "R346T",
+      "month": "2025-04",
+      "prevalence": 0.4772
+    },
+    {
+      "mutation": "R346T",
+      "month": "2025-05",
+      "prevalence": 0.504
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-01",
+      "prevalence": 0.3258
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-02",
+      "prevalence": 0.3002
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-03",
+      "prevalence": 0.3258
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-04",
+      "prevalence": 0.3792
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-05",
+      "prevalence": 0.3715
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-06",
+      "prevalence": 0.3537
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-07",
+      "prevalence": 0.2879
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-08",
+      "prevalence": 0.2986
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-09",
+      "prevalence": 0.3586
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-10",
+      "prevalence": 0.2991
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-11",
+      "prevalence": 0.3352
+    },
+    {
+      "mutation": "E484K",
+      "month": "2024-12",
+      "prevalence": 0.318
+    },
+    {
+      "mutation": "E484K",
+      "month": "2025-01",
+      "prevalence": 0.3383
+    },
+    {
+      "mutation": "E484K",
+      "month": "2025-02",
+      "prevalence": 0.2996
+    },
+    {
+      "mutation": "E484K",
+      "month": "2025-03",
+      "prevalence": 0.35
+    },
+    {
+      "mutation": "E484K",
+      "month": "2025-04",
+      "prevalence": 0.3636
+    },
+    {
+      "mutation": "E484K",
+      "month": "2025-05",
+      "prevalence": 0.3638
+    }
+  ],
+  "total_mutations": 10
+}

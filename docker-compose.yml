@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  pathowatch:
+    build: .
+    container_name: pathowatch
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=true
+    volumes:
+      - ./data:/app/data

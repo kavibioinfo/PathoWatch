@@ -1,0 +1,62 @@
+{
+  "last_updated": "2026-07-01T13:14:07.913524",
+  "total_variants": 5,
+  "active_alerts": 1,
+  "alerts": [
+    {
+      "variant": "Omicron",
+      "lineages": "BA.1, BA.2, BA.4, BA.5, XBB, EG.5, JN.1, KP.2, KP.3, XEC",
+      "who_label": "VOC",
+      "status": "Active",
+      "alert_level": "\ud83d\udd34 HIGH",
+      "first_identified": "South Africa",
+      "date_first": "2021-11",
+      "severity": "Moderate",
+      "transmissibility": "Very High"
+    },
+    {
+      "variant": "Delta",
+      "lineages": "B.1.617.2, AY.1, AY.2, AY.3",
+      "who_label": "Former VOC",
+      "status": "Monitored",
+      "alert_level": "\ud83d\udfe1 MEDIUM",
+      "first_identified": "India",
+      "date_first": "2020-10",
+      "severity": "High",
+      "transmissibility": "High"
+    },
+    {
+      "variant": "Alpha",
+      "lineages": "B.1.1.7",
+      "who_label": "Former VOC",
+      "status": "Monitored",
+      "alert_level": "\ud83d\udfe1 MEDIUM",
+      "first_identified": "United Kingdom",
+      "date_first": "2020-09",
+      "severity": "High",
+      "transmissibility": "High"
+    },
+    {
+      "variant": "Beta",
+      "lineages": "B.1.351",
+      "who_label": "Former VOC",
+      "status": "Monitored",
+      "alert_level": "\ud83d\udfe1 MEDIUM",
+      "first_identified": "South Africa",
+      "date_first": "2020-05",
+      "severity": "High",
+      "transmissibility": "Moderate"
+    },
+    {
+      "variant": "Gamma",
+      "lineages": "P.1, P.1.1, P.1.2",
+      "who_label": "Former VOC",
+      "status": "Monitored",
+      "alert_level": "\ud83d\udfe1 MEDIUM",
+      "first_identified": "Brazil",
+      "date_first": "2020-11",
+      "severity": "High",
+      "transmissibility": "Moderate"
+    }
+  ]
+}
