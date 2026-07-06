@@ -15,7 +15,7 @@ data/raw/*.zip
 data/raw/*.fasta
 
 # Streamlit
-.streamlit/
+
 
 # IDE
 .vscode/
