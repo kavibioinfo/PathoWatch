@@ -40,8 +40,6 @@
 
 ## 📸 Screenshots
 
-> *Add your screenshots here in the following format:*
-
 ### 🏠 Global Overview
 ![Global Overview](assets/screenshots/global_overview.png)
 *Real-time metrics, geographic distribution map, monthly submission trends, and lineage distribution charts.*
@@ -472,7 +470,7 @@ Data sources (Nextstrain, NCBI, Outbreak.info) have their own terms of use. Plea
 
 ## 👤 Author
 
-**Avinash**
+**Avinash Kumar**
 
 - 🌐 Portfolio: [https://pathowatch.ayushnexa.com]
 - 💼 LinkedIn: [www.linkedin.com/in/ayushnexaofficial]
